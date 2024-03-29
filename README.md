@@ -11,6 +11,6 @@
 
 - 📫 How to reach me **yashahirekhan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Connect with me</p>
+
 <a href="www.linkedin.com/in/yasha-hirekhan-16a543243" target
